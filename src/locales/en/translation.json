@@ -1,0 +1,203 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "price_list": "Price List"
+  },
+
+  "footer": {
+    "address": "Address : 52A Nguyen Nhac, Ngo May, Quy Nhon, Binh Dinh",
+    "phone": "Phone : 0378 927 665",
+    "email": "Email",
+    "support": "CUSTOMER SUPPORT",
+    "terms": "Terms and Conditions",
+    "community_standards": "Community Standards",
+    "rights_reserved": "All Rights Reserved"
+  },
+
+  "testimonialsection": {
+    "title": "CUSTOMER EXPERIENCE"
+  },
+
+  "feedback": {
+    "name": "Username :",
+    "content": "Review Content :",
+    "entername": "Enter username",
+    "entercontent": "Enter review content",
+    "close": "Close",
+    "enteravata": "CHOOSE AVATAR",
+    "send": "Submit Review"
+  },
+
+  "termsOfService": {
+    "title": "TERMS & CONDITIONS OF SERVICE",
+    "company": "TATTOO THE TRUNG",
+    "content": {
+      "updated": "Updated: April 13, 2020",
+      "introduction": {
+        "title": "1. Introduction",
+        "content": "By using the services of Tattoo The Trung, you agree to comply with these terms and conditions. Tattoo The Trung reserves the right to modify these terms over time. 'You' and 'your' in this document refer to the customers of Tattoo The Trung."
+      },
+      "termPaymentModification": {
+        "title": "2. Term, Payment & Modifications",
+        "content": "The term of this agreement will begin from the date you register and make your initial payment. Customers agree to pay all applicable fees in Vietnamese Dong or other agreed currency, including any applicable fees and taxes."
+      },
+      "paymentMethod": {
+        "title": "3. Payment Method",
+        "content": "Customers must provide a valid bank account or credit card with sufficient balance to pay for all agreed services with Tattoo The Trung."
+      },
+      "refundCancellationPolicy": {
+        "title": "4. Refund and Cancellation Policy",
+        "content": "All service cancellation requests must be submitted in writing to our contact address. For specific services, the refund period will be clearly stated. For completed tattoo services, there is no refund policy."
+      },
+      "servicesProvided": {
+        "title": "5. Services Provided",
+        "content": "Tattoo The Trung offers professional tattoo artistry services. Although we cannot guarantee that results will meet all your expectations, we are committed to providing the highest quality service and clear guidance on the process, including hygiene and safety aspects."
+      },
+      "nonCustomerAssetOwnership": {
+        "title": "6. Ownership of Non-Customer Assets",
+        "content": "All ownership rights to designs created by Tattoo The Trung belong to us and cannot be copied or distributed without permission."
+      },
+      "noLicense": {
+        "title": "7. No License",
+        "content": "Nothing in this agreement grants customers the right to use the trademark, service mark, or logo of Tattoo The Trung without written permission."
+      },
+      "confidentialInformation": {
+        "title": "8. Confidential Information",
+        "content": "Information related to processes, designs, or any other material provided by Tattoo The Trung to you is considered confidential. You agree not to disclose or share this information with third parties."
+      },
+      "restrictions": {
+        "title": "9. Restrictions",
+        "content": "Customers may not disclose, copy, or modify confidential information without prior written consent from Tattoo The Trung. You may only use this information to complete services from Tattoo The Trung."
+      },
+      "customerCommitments": {
+        "title": "10. Customer Commitments and Warranties",
+        "content": "Customers agree not to use Tattoo The Trung’s services for any unlawful acts or to infringe on the intellectual property rights of any third party."
+      },
+      "customerIndemnity": {
+        "title": "11. Customer Indemnity",
+        "content": "Customers agree to indemnify and hold Tattoo The Trung harmless from claims arising from their conduct related to the use of Tattoo The Trung’s services."
+      },
+      "liabilityLimitation": {
+        "title": "12. Limitation of Liability and Warranty Disclaimer",
+        "content": "Tattoo The Trung makes no warranty regarding specific outcomes for any service. We are not liable for any indirect loss, loss of profit, or damages arising from service use."
+      },
+      "heirsAssignees": {
+        "title": "13. Heirs and Assigns",
+        "content": "All terms of this agreement shall be effective for each party’s heirs or permitted assigns."
+      },
+      "choiceOfLaw": {
+        "title": "14. Choice of Law; Exclusive Venue",
+        "content": "This agreement is governed by the laws of Vietnam. All disputes shall be resolved in a court of competent jurisdiction in Vietnam."
+      },
+      "headings": {
+        "title": "15. Headings",
+        "content": "Section headings have no legal significance and do not affect the interpretation of this agreement."
+      },
+      "waiver": {
+        "title": "16. Waiver",
+        "content": "Tattoo The Trung’s waiver of any provision of this agreement does not constitute a waiver of other provisions."
+      },
+      "entireAgreement": {
+        "title": "17. Entire Agreement",
+        "content": "This document constitutes the entire understanding and agreement between the parties, superseding any prior agreements or representations."
+      },
+      "attorneyFees": {
+        "title": "18. Attorney’s Fees",
+        "content": "In the event of a legal dispute, the prevailing party is entitled to recover related costs, including attorney’s fees."
+      },
+      "noThirdPartyBenefits": {
+        "title": "19. No Third-Party Benefits",
+        "content": "The terms in this agreement are for the benefit of the involved parties only and do not confer any benefits to third parties."
+      },
+      "survival": {
+        "title": "20. Survival",
+        "content": "Confidentiality and intellectual property rights shall survive the termination of this agreement."
+      },
+      "execution": {
+        "title": "21. Execution",
+        "content": "This agreement takes effect upon successful customer payment and use of services at Tattoo The Trung. By using the service, you agree to abide by the above terms and conditions."
+      }
+    }
+  },
+
+  "communityStandards": {
+    "title": "COMMUNITY STANDARDS",
+    "company": "TATTOO THe TRUNG",
+    "updated": "Updated: October 28, 2024",
+    "effectiveDate": "Effective Date: October 29, 2024",
+    "welcomeMessage": "Welcome to the Tattoo The Trung community! We are committed to creating a safe, friendly, and creative space for everyone to share their passion and personality through tattoo art. To maintain a civilized environment, we ask everyone to follow the community guidelines below.",
+    "values": {
+      "title": "1. Core Community Values",
+      "description": "We uphold positive values, respect creativity, and the individuality of each person. We expect customers and users to perform the following behaviors:",
+      "items": [
+        "1.1 Respect social ethics, professional ethics, and local culture.",
+        "1.2 Encourage scientific and safe sharing of knowledge about tattoo art.",
+        "1.3 Inspire a healthy lifestyle, creativity, and personal freedom while avoiding behaviors that incite violence or illegal activities."
+      ]
+    },
+    "lawCompliance": {
+      "title": "2. Compliance with Laws and Regulations",
+      "description": "We strictly comply with Vietnamese laws and are committed to removing content or behaviors that violate legal regulations.",
+      "items": [
+        {
+          "main": "2.1 Prohibition of incitement, insult, or discrimination on our platform, including:",
+          "subItems": [
+            "2.1.1 Content that violates the basic principles of the Vietnamese Constitution.",
+            "2.1.2 Content that is racially hateful, discriminatory, or destructive to national unity.",
+            "2.1.3 Content that is violent, pornographic, insulting to others, or propagates unhealthy ideologies."
+          ]
+        },
+        "2.2 Prohibit any behavior or content that endangers national security and social order.",
+        "2.3 Strictly prohibit the dissemination of illegal products, such as drugs, weapons, or products that violate the law."
+      ]
+    },
+    "communication": {
+      "title": "3. Communication Rules",
+      "description": "To maintain civility in the community, we ask everyone to respect others and follow these communication rules:",
+      "items": [
+        "3.1 Do not post or comment on content that is hateful, insulting, or incites violence.",
+        "3.2 Prohibit obscene language, profanity, or insults in any form.",
+        "3.3 Do not share personal information of others without consent to protect everyone’s privacy and safety.",
+        "3.4 Prohibit spam or unauthorized advertisements by site administrators."
+      ]
+    },
+    "minorProtection": {
+      "title": "4. Protection of Minors’ Rights",
+      "description": "To protect minors' rights and safety, Tattoo The Trung is committed to implementing strict measures, including:",
+      "items": [
+        "4.1 Strictly prohibiting posting inappropriate content related to minors, such as pornography, violence, or threats.",
+        "4.2 Not posting personal information of minors.",
+        "4.3 Ensuring tattoo-related content contains clear age and health warnings."
+      ]
+    },
+    "fraudAndSpam": {
+      "title": "5. Prevention of Fraud and Spam",
+      "description": "We are committed to preventing all forms of fraud or inappropriate behavior, including but not limited to:",
+      "items": [
+        "5.1 Prohibiting all forms of fraud, including identity theft or fraudulent account registration.",
+        "5.2 Prohibiting all forms of counterfeit goods, pirated products, or products that violate copyright.",
+        "5.3 Prohibiting spam or inappropriate advertising."
+      ]
+    },
+    "violationHandling": {
+      "title": "6. Handling Violations",
+      "description": "We will apply strict measures against violations to ensure a healthy community environment:",
+      "items": [
+        "6.1 Warning and requesting correction of violating content.",
+        "6.2 Deleting violating content and limiting access if repeated.",
+        "6.3 Reporting serious violations to relevant authorities when necessary."
+      ]
+    },
+    "complaints": {
+      "title": "7. Right to Appeal",
+      "description": "Customers have the right to appeal if they feel treated unfairly. All complaints must be sent to our contact address. Tattoo The Trung will review and resolve complaints as soon as possible."
+    },
+    "supportContact": {
+      "title": "8. Support and Contact",
+      "description": "If you have any questions or need support regarding the Community Standards, please contact Tattoo The Trung via email or phone on the website. We are always ready to listen and support to bring the best experience to our customers."
+    },
+    "closing": "Thank you for complying with the community standards and helping us build a professional, creative tattoo art environment!"
+  }
+}
